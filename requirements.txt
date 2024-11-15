@@ -1,0 +1,8 @@
+requests
+tavily-python
+groq
+transformers
+torch
+pandas
+streamlit
+python-dotenv
