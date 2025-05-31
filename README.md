@@ -1,5 +1,5 @@
-# AutoIntel-Agents
-# 🧠 Intelligent Market Research and Competitor Analysis
+# AutoIntel-Agents 🧠
+# Intelligent Market Research and Competitor Analysis
 
 An AI-powered multi-agent system to automate industry-specific market research, track AI/ML trends, perform competitor sentiment analysis, generate use cases, and find relevant datasets — streamlining the entire AI adoption journey for businesses.
 
